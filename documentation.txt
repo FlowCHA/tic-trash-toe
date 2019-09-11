@@ -1,0 +1,7 @@
+Start the game by running the executable file.
+
+Two players must play this game.
+
+The first player to click a space will be designated as Player X.
+
+When one player has three symbols in a row in any straight line, that player wins the game.
